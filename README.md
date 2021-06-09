@@ -9,5 +9,20 @@
 > 2. USPTO 검색.ipynb
 * dataset.csv를 통해 원하는 특허 분석을 통해 수집 가능함
 
+> 3. CPC 분석.ipynb
+* CPC 상위 및 하위 분석
+* CPC co-occurrence
+
+> 4. 상관관계.ipynb
+* Modularity별 Source 및 Target으로 인한 상관관계
+
+> 5. CPC 비율 분석.ipynb
+* CPC Counter별
+* CPC OrderedDict
+
+> 6. Call Center Keyword Matrix.ipynb
+* Abstract을 이용한 keyword 전처리 수행 (lower, regular expression, stopwords, lemmatizer, NN)
+* Keyword co-occurrence
+
 ## Data Source
 * https://patentsview.org/download/data-download-tables
